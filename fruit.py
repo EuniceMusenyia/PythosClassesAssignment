@@ -13,5 +13,5 @@ class Fruits():
         return f"{self.name} is {self.taste}"
     
     def market_sales(self):
-        return f"the market sells {self.name} {self.price}"
+        return f"the market sells {self.name} at {self.price}"
     
